@@ -1,0 +1,88 @@
+body {
+	background-color: #777;
+}
+
+p{
+	padding:1% 0% 1% 0%;
+}
+
+header {
+	background-color:#ebebeb;
+	color: #777;
+	text-align: center;
+	width: 900px;
+	padding: 30px;
+	margin: 10px 224.5px 10px 224.5px;
+	font-size: 18px;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+
+}
+
+nav {
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	width: 900px;
+	padding: 30px;
+	margin: 10px 224.5px 20px 224.5px;
+	font-size: 18px;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+section{
+  background-color:#ebebeb;
+  color: #777;
+  width:500px;
+  padding: 10px 10px 25px 10px;
+  margin: 0px 0px 0px 225px;
+  text-align:center;
+  float: left;
+  font-size: 18px;
+}
+article{
+  background-color:#777;
+  color: #ebebeb;
+  height:80%;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.Box{
+  background-color:#ebebeb;
+  color: #777;
+  width:350px; 
+  margin:auto;
+  font-size: 18px;
+}
+
+
+
+h1{
+  padding:2%;
+}
+
+aside {
+	background-color: #ebebeb;
+	color: #777;
+	text-align: center;
+	float: left;
+	width: 390px;
+	padding: 15px 15px 20px 15px;
+	margin: 0px 10px 20px 20px;
+	height: 264px;
+	font-size: 18px;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	overflow: visible;
+}
+
+footer {
+	background-color: #ebebeb;
+	clear: both;
+	color: #777;
+	text-align: center;
+	width: 900px;
+	padding: 30px;
+	margin: 10px 224.5px 10px 224.5px;
+	font-size: 18px;
+	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+}
